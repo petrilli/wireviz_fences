@@ -20,7 +20,6 @@ classifiers=[
 ]
 packages = [
     { include = "wireviz_fences" },
-    { include = "tests", format = "sdist" },
 ]
 
 [tool.poetry.dependencies]
